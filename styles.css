@@ -376,4 +376,7 @@ footer hr {
   #portTabs li {
     margin-right: 30px;
   }
+  #contact {
+    padding: 50px 0;
+  }
 }
